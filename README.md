@@ -16,7 +16,7 @@ To get started with the Super Revolt Bot, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/super-revolt-bot.git
+   git clone https://github.com/DarkPawaxy/MyBotRevolt.git
 
     Install Dependencies:
     Navigate to the project directory and install the required packages:
